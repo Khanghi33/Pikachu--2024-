@@ -1,0 +1,7 @@
+hvk,cc234,49
+thongdepzai,1,50
+minhdepzai,2,50
+Khang,13,22
+Kenz,130105,49
+NguyenKhang,1301,42
+Khangne,1111,28

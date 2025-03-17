@@ -1,0 +1,19 @@
+{
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Debug C++",
+                "type": "cppdbg",
+                "request": "launch",
+                "program": "${fileDirname}/${fileBasenameNoExtension}.exe",  // Chạy đúng file thực thi
+                "stopAtEntry": false,
+                "cwd": "${fileDirname}",
+                // "console": "externalTerminal",
+                "preLaunchTask": "Build C++",
+                "MIMode": "gdb",
+                "miDebuggerPath": "C:\\mingw64\\bin\\gdb.exe"
+            }
+        ]
+    },
+}
